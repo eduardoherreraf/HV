@@ -1,20 +1,20 @@
 // myCSS
-h2{
-    color: red;
+h2 {
+  color: red;
 }
-.encabezado{
-    background: rgba(119, 118, 204, 0.1);
+.encabezado {
+  background: rgba(119, 118, 204, 0.1);
 }
-.titulo{
-    font-weight: bold;
+.titulo {
+  font-weight: bold;
 }
 .cuerpo {
-    background-color: rgb(28, 147, 187);
+  background-color: rgb(28, 147, 187);
 }
-.formacion{
-    background-color: darkseagreen;
+.formacion {
+  background-color: darkseagreen;
 }
-.footer{
-    background-color: black;
-    color: white;
+.footer {
+  background-color: black;
+  color: white;
 }
